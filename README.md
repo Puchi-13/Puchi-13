@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/pIVhMUfacQ0AAAAC/hello-hello-chat.gif"  />
-</div>
-
-###
-
 ###
 
 <h1 align="center">PROYECTOS:</h1>
