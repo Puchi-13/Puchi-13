@@ -4,11 +4,11 @@
 
 ###
 
-<h5 align="left">-CARDS (✅)</h5>
+<h5 align="left">-CARDS 1.3 (✅)</h5>
 
 ###
 
-<h5 align="left">-LIKEROGUE</h5>
+<h5 align="left">-CARDS 2.0</h5>
 
 ###
 
